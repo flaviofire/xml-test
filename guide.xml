@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="History Channel">
+    <display-name>History Channel</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <programme start="20170805233000 +0000" stop="20170806000000 +0000" channel="History Channel">
+    <title>Trato Feito</title>
+    <sub-title>Ricky Trapaceiro</sub-title>
+    <desc>Veja uma camiseta assinada por Dan Fouts</desc>
+    <category>Series</category>
+    <icon src="http://images.mi.tv/programs/br_trato-feito-s10e14-ricky-trapaceiro_l_m.jpg" />
+    <episode-num>Temp.1-Ep.4</episode-num>
+  </programme>
+  <programme start="20170805233000 +0000" stop="20170806000000 +0000" channel="History Channel">
+    <title>Febre da Selva</title>
+    <sub-title>Buying Hawaii</sub-title>
+    <desc>Vamos conhecer a história de uma cultura culinária</desc>
+    <category>Series</category>
+    <icon src="http://images.mi.tv/programs/br_trato-feito-s10e14-ricky-trapaceiro_l_m.jpg" />
+    <episode-num>Temp.10-Ep.14</episode-num>
+  </programme>
+  <programme start="20170805233000 +0000" stop="20170806000000 +0000" channel="History Channel">
+    <title>Vida no Alasca</title>
+    <sub-title>Ilha em Exuma</sub-title>
+    <desc>Tom e Henry chegam a Nashville para provar as melhores</desc>
+    <category>Series</category>
+    <icon src="http://images.mi.tv/programs/br_trato-feito-s10e14-ricky-trapaceiro_l_m.jpg" />
+    <episode-num>Temp.1-Ep.2</episode-num>
+  </programme>
+</tv>
